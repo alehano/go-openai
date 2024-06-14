@@ -1,5 +1,7 @@
 # Go OpenAI
 
+## Updated to support external LLMs
+
 [![Go Reference](https://pkg.go.dev/badge/github.com/alehano/go-openai.svg)](https://pkg.go.dev/github.com/alehano/go-openai)
 [![Go Report Card](https://goreportcard.com/badge/github.com/alehano/go-openai)](https://goreportcard.com/report/github.com/alehano/go-openai)
 [![codecov](https://codecov.io/gh/sashabaranov/go-openai/branch/master/graph/badge.svg?token=bCbIfHLIsW)](https://codecov.io/gh/sashabaranov/go-openai)
